@@ -1,3 +1,3 @@
-# react-ssr-sample
+# react-ssr-starter
 
-React SSR Sample using redux, redux-thunk, react-router v4
+React SSR Starter using redux, redux-thunk, react-router v4
